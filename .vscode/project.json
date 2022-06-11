@@ -1,0 +1,8 @@
+{
+    "project": "adisreyaj_compito",
+    "sonarURL": "https://sonarcloud.io",
+    "auth": {
+        "token": "28d0d3ebe25368315bc62047b22d0c0ef264c5bc"
+        
+    }
+}
